@@ -127,13 +127,16 @@ namespace WordMemori.GameFramework
 
             // Draw items, player, word
             _player.Draw(spriteBatch);
-            spriteBatch.DrawString(Game1.Font, _word, new Vector2(20, 20), Color.White);
+            Text.DrawWord(spriteBatch, _word);
             foreach(Item item in _items)
                 { item.Draw(spriteBatch); }
 
 
             // Game on drawing: ...score...
-
+            if (!_gameOver)
+            {
+                Text.DrawScoreCurrent(spriteBatch, _score);
+            }
 
             // Game over drawing: ...scoreBoard, retryBtn, exiBtn, finalScore...
             if( _gameOver)
