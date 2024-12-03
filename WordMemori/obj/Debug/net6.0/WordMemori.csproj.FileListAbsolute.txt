@@ -29,3 +29,36 @@ C:\2024Fall\GAME PROG\WordMemori\WordMemori\bin\Debug\net6.0\Content\shark.xnb
 C:\2024Fall\GAME PROG\WordMemori\WordMemori\bin\Debug\net6.0\Content\getready.xnb
 C:\2024Fall\GAME PROG\WordMemori\WordMemori\bin\Debug\net6.0\Content\item_name.xnb
 C:\2024Fall\GAME PROG\WordMemori\WordMemori\bin\Debug\net6.0\Content\ground.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloud1.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\getready.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\ground.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\item_name.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\logo1.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\shark.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\WordMemori.exe
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\WordMemori.deps.json
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\WordMemori.runtimeconfig.json
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\WordMemori.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\WordMemori.pdb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.csproj.AssemblyReference.cache
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.AssemblyInfoInputs.cache
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.AssemblyInfo.cs
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.sourcelink.json
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.csproj.Up2Date
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\refint\WordMemori.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.pdb
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\WordMemori.genruntimeconfig.cache
+C:\Workspace\CSharp\WordMemori\WordMemori\obj\Debug\net6.0\ref\WordMemori.dll
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\gameover.xnb
