@@ -14,7 +14,6 @@ namespace WordMemori.GameObject
     {
         private int _timer = 0;
         private bool _isRemoved = false;
-        
         public bool IsRemoved
         {
             get { return _isRemoved; }

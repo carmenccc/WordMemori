@@ -88,7 +88,10 @@ namespace WordMemori.GameFramework
             {
                 item.Update(gameTime, input);
                 if (item.IsRemoved)
+                {
                     _items.Remove(item);
+                    continue;
+                }
                 
                 if (_player.CollideWith(item))
                 {
