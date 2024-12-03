@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/cloud1.png","C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/bin/DesktopGL/Content/cloud1.xnb","TextureProcessor","Texture2DContent",2330,746581,0.1290649
+"C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/getready.png","C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/bin/DesktopGL/Content/getready.xnb","TextureProcessor","Texture2DContent",525,7741,0.0974469
+"C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/ground.png","C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/bin/DesktopGL/Content/ground.xnb","TextureProcessor","Texture2DContent",326,34581,0.1004238
+"C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/item_name.png","C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/bin/DesktopGL/Content/item_name.xnb","TextureProcessor","Texture2DContent",218,533,0.0911779
+"C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/logo1.png","C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/bin/DesktopGL/Content/logo1.xnb","TextureProcessor","Texture2DContent",604,8533,0.0884514
+"C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/shark.png","C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/bin/DesktopGL/Content/shark.xnb","TextureProcessor","Texture2DContent",6914,57685,0.0026393
