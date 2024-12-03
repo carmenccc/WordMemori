@@ -33,21 +33,19 @@ namespace WordMemori.GameFramework
         // Methods
         private void GameOver()
         {
-            // Game over logic
-            _gameOver = true;
+
         }
 
         public GameScene() : base()
         {
-            _random = new Random();
-            _timer = 0;
-            _gameOver = false;
-            _score = 0;
+            this._random = new Random();
+            this._timer = 0;
+            this._gameOver = false;
+            this._score = 0;
 
-            // Initialize all objects ("file_name", x, y)
-            _player = new Player("shark", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
-            _items = new List<Item>();
-            _gameOverText = new Sprite("gameover", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width / 2), 100);
+            // Initialize all objects
+            this._player = new Player("shark", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
+            this._items = new List<Item>();
         }
 
         public override void Update(GameTime gameTime, Game1 game, Input input)
@@ -73,8 +71,7 @@ namespace WordMemori.GameFramework
                 // Process matching result
                 if (_player.CollideWith(item))
                 {
-                    //item.IsRemoved = true;
-                    GameOver();
+                    item.IsRemoved = true;
                 }
             }
 
@@ -104,10 +101,7 @@ namespace WordMemori.GameFramework
 
 
             // Game over drawing: gameoverText, scoreBoard, retryBtn, exiBtn, finalScore
-            if( _gameOver)
-            {
-                _gameOverText.Draw(spriteBatch);
-            }
+
             
         }
 

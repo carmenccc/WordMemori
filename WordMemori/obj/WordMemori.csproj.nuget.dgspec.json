@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj": {}
+    "C:\\2024Fall\\GAME PROG\\WordMemori\\WordMemori\\WordMemori.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj": {
+    "C:\\2024Fall\\GAME PROG\\WordMemori\\WordMemori\\WordMemori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj",
+        "projectUniqueName": "C:\\2024Fall\\GAME PROG\\WordMemori\\WordMemori\\WordMemori.csproj",
         "projectName": "WordMemori",
-        "projectPath": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj",
+        "projectPath": "C:\\2024Fall\\GAME PROG\\WordMemori\\WordMemori\\WordMemori.csproj",
         "packagesPath": "C:\\Users\\carme\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\obj\\",
+        "outputPath": "C:\\2024Fall\\GAME PROG\\WordMemori\\WordMemori\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carme\\AppData\\Roaming\\NuGet\\NuGet.Config",

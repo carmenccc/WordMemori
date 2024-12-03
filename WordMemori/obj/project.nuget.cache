@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+YZK4kjrsrA=",
+  "dgSpecHash": "XqcWKroCtFY=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj",
+  "projectFilePath": "C:\\2024Fall\\GAME PROG\\WordMemori\\WordMemori\\WordMemori.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carme\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\carme\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"

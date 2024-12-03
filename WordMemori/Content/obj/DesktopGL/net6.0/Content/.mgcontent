@@ -4,16 +4,14 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/item_name.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/logo1.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/shark.png</File>
+    <File>C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/cloud1.png</File>
+    <File>C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/getready.png</File>
+    <File>C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/ground.png</File>
+    <File>C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/item_name.png</File>
+    <File>C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/logo1.png</File>
+    <File>C:/2024Fall/GAME PROG/WordMemori/WordMemori/Content/shark.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
