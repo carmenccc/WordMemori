@@ -63,7 +63,8 @@ namespace WordMemori
                 "shark",
                 "getready",
                 "item_name",
-                "ground"
+                "ground",
+                "gameover"
             };
             foreach (var i in images)
             {

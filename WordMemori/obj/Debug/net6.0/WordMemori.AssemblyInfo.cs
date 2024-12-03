@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordMemori")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f50e02185e60052f1a483beedadf02e59b03abaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordMemori")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordMemori")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
