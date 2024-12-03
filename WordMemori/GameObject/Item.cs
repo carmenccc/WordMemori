@@ -14,14 +14,18 @@ namespace WordMemori.GameObject
     {
         private int _timer = 0;
         private bool _isRemoved = false;
+        
         public bool IsRemoved
         {
             get { return _isRemoved; }
             set { _isRemoved = value; }
         }
 
+        public string Word { get; set; }
+
         public Item(string imgName, int x, int y) : base(imgName, x, y)
         {
+            Word = imgName;
         }
 
         public override void Update(GameTime gameTime, Input input)

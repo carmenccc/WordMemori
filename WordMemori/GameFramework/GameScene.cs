@@ -12,14 +12,18 @@ namespace WordMemori.GameFramework
 {
     public class GameScene : SceneBase
     {
+        // State Properties
         private Random _random;
         private int _timer;
         private bool _gameOver;
+        string _word;
+        int _poolSize;
+        private bool _matched;
 
         // Gaming Objects
         Player _player;
         List<Item> _items;
-        // Dictionary<string, Item>;
+        List<string> _wordPool;
 
         // GameOver Objects
         Sprite _gameOverText;
@@ -44,6 +48,10 @@ namespace WordMemori.GameFramework
             _gameOver = false;
             _score = 0;
 
+            // Load word data
+            _wordPool = new List<string> { "word1", "word2", "word3" };
+            _poolSize = _wordPool.Count;
+
             // Initialize all objects ("file_name", x, y)
             _player = new Player("shark", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
             _items = new List<Item>();
@@ -64,17 +72,39 @@ namespace WordMemori.GameFramework
 
             /// Game is on going: Update moving game objects------------------
             _player.Update(gameTime, input);
-            foreach(Item item in new List<Item>(_items))
+
+            // Generate word
+            if (_wordPool.Count == 0){
+                GameOver();
+                return;
+            }
+            else if (_wordPool.Count > 0)
+            {
+                _word = _wordPool[0];
+            }
+
+            // Update items
+            foreach (Item item in new List<Item>(_items))
             {
                 item.Update(gameTime, input);
                 if (item.IsRemoved)
                     _items.Remove(item);
-
-                // Process matching result
+                
                 if (_player.CollideWith(item))
                 {
-                    //item.IsRemoved = true;
-                    GameOver();
+                    item.IsRemoved = true;
+                    // Process matching result
+                    if (item.Word == _word)
+                    {
+                        _score++;
+                        _wordPool.RemoveAt(0);
+                    }
+                    else
+                    {
+                        _score--;
+                        GameOver();
+                        // ...play fail soundeffect...
+                    }
                 }
             }
 
@@ -83,8 +113,9 @@ namespace WordMemori.GameFramework
             if(_timer >= Setting.ItemGenerationInterval)
             {
                 _timer = 0;
-                // use random item name
-                Item newItem = new Item("item_name", Setting.ScreenWidth, 50);
+                // random item
+                string fileName = _wordPool[_random.Next(0, _poolSize)];
+                Item newItem = new Item($"{fileName}", Setting.ScreenWidth, 50);
                 _items.Add(newItem);
             }
             
@@ -94,16 +125,16 @@ namespace WordMemori.GameFramework
         {
             base.Draw(spriteBatch);
 
-            // Draw foods, player
+            // Draw items, player
             _player.Draw(spriteBatch);
             foreach(Item item in _items)
                 { item.Draw(spriteBatch); }
 
 
-            // Game on drawing: current score
+            // Game on drawing: ...current word, score...
 
 
-            // Game over drawing: gameoverText, scoreBoard, retryBtn, exiBtn, finalScore
+            // Game over drawing: ...scoreBoard, retryBtn, exiBtn, finalScore...
             if( _gameOver)
             {
                 _gameOverText.Draw(spriteBatch);

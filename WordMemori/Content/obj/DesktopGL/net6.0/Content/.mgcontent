@@ -11,8 +11,14 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/item_name.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/logo1.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/shark.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/word1.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/word2.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/word3.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

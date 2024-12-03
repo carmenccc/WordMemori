@@ -64,7 +64,10 @@ namespace WordMemori
                 "getready",
                 "item_name",
                 "ground",
-                "gameover"
+                "gameover",
+                "word1",
+                "word2",
+                "word3"
             };
             foreach (var i in images)
             {

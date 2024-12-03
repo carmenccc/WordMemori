@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png</SourceFile>
-  <SourceTime>2024-12-03T12:03:52.6037531-05:00</SourceTime>
-  <DestFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/gameover.xnb</DestFile>
-  <DestTime>2024-12-03T13:17:39.6563216-05:00</DestTime>
+  <SourceFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/word1.png</SourceFile>
+  <SourceTime>2024-12-01T15:56:50.7624767-05:00</SourceTime>
+  <DestFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/word1.xnb</DestFile>
+  <DestTime>2024-12-03T13:17:39.6792397-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
