@@ -1,5 +1,6 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/cloud1.xnb","TextureProcessor","Texture2DContent",2330,746581,0.1549992
+"C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/Font/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1948775
 "C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/gameover.xnb","TextureProcessor","Texture2DContent",475,7229,0.0022164
 "C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/getready.xnb","TextureProcessor","Texture2DContent",525,7741,0.0021687
 "C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",326,34581,0.003077

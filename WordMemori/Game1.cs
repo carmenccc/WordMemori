@@ -26,6 +26,7 @@ namespace WordMemori
         // Resources
         public static Dictionary<string, Texture2D> Textures;
         public static Dictionary<string, SoundEffect> Sounds;
+        public static SpriteFont Font;
 
         public Game1()
         {
@@ -73,6 +74,9 @@ namespace WordMemori
             {
                 Textures.Add(i, Content.Load<Texture2D>(i));
             }
+
+            // Load Font
+            Font = Content.Load<SpriteFont>("Font/Arial");
         }
 
         protected override void Update(GameTime gameTime)

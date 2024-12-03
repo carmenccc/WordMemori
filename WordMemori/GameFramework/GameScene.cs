@@ -16,14 +16,14 @@ namespace WordMemori.GameFramework
         private Random _random;
         private int _timer;
         private bool _gameOver;
-        string _word;
-        int _poolSize;
-        private bool _matched;
+        string _word = "";
+        bool _matched;
 
         // Gaming Objects
         Player _player;
         List<Item> _items;
         List<string> _wordPool;
+        String[] _itemPool;
 
         // GameOver Objects
         Sprite _gameOverText;
@@ -50,7 +50,7 @@ namespace WordMemori.GameFramework
 
             // Load word data
             _wordPool = new List<string> { "word1", "word2", "word3" };
-            _poolSize = _wordPool.Count;
+            _itemPool = new string[] { "word1", "word2", "word3" };
 
             // Initialize all objects ("file_name", x, y)
             _player = new Player("shark", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
@@ -102,7 +102,7 @@ namespace WordMemori.GameFramework
                     else
                     {
                         _score--;
-                        GameOver();
+                        //GameOver();
                         // ...play fail soundeffect...
                     }
                 }
@@ -114,7 +114,7 @@ namespace WordMemori.GameFramework
             {
                 _timer = 0;
                 // random item
-                string fileName = _wordPool[_random.Next(0, _poolSize)];
+                string fileName = _itemPool[_random.Next(0, _itemPool.Length)];
                 Item newItem = new Item($"{fileName}", Setting.ScreenWidth, 50);
                 _items.Add(newItem);
             }
@@ -125,19 +125,21 @@ namespace WordMemori.GameFramework
         {
             base.Draw(spriteBatch);
 
-            // Draw items, player
+            // Draw items, player, word
             _player.Draw(spriteBatch);
+            spriteBatch.DrawString(Game1.Font, _word, new Vector2(20, 20), Color.White);
             foreach(Item item in _items)
                 { item.Draw(spriteBatch); }
 
 
-            // Game on drawing: ...current word, score...
+            // Game on drawing: ...score...
 
 
             // Game over drawing: ...scoreBoard, retryBtn, exiBtn, finalScore...
             if( _gameOver)
             {
                 _gameOverText.Draw(spriteBatch);
+                
             }
             
         }

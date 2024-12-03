@@ -5,6 +5,7 @@
   <Config />
   <SourceFiles>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png</File>
@@ -16,6 +17,7 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/word3.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -65,3 +65,4 @@ C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\gameover.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\word1.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\word2.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\word3.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Font\Arial.xnb
