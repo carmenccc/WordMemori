@@ -18,11 +18,16 @@ namespace WordMemori.Component
         public static int ScreenHeight = 324;
         public static int GroundLevelY = 300;
         public static int WordY = 30;
-        public static int CurrentScoreX = 10;
-        public static int CurrentScoreY = 10;
+        public static int ScoreCurrentX = 10;
+        public static int ScoreCurrentY = 10;
+        public static int ScoreResultY = 150;
+        public static int MenuBoardY;
+        public static int ScoreBoardX;
+        public static int MenuBtnY = 250;
+        public static int GameOverBtnY = 200;
 
         // Gaming setting
-        public static int ItemScrollSpeed = 16;
+        public static int ItemScrollSpeed = 10;
         public static int ItemGenerationInterval = 3000;
 
         public static string Instruction;

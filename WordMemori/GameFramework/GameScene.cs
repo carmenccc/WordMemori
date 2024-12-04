@@ -17,7 +17,6 @@ namespace WordMemori.GameFramework
         private int _timer;
         private bool _gameOver;
         string _word = "";
-        bool _matched;
 
         // Gaming Objects
         Player _player;
@@ -56,6 +55,9 @@ namespace WordMemori.GameFramework
             _player = new Player("shark", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
             _items = new List<Item>();
             _gameOverText = new Sprite("gameover", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width / 2), 100);
+
+            _retryBtn = new Button("getready", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width - 5), Setting.GameOverBtnY);
+            _exitBtn = new Button("getready", (Setting.ScreenWidth / 2 + 5), Setting.GameOverBtnY);
         }
 
         public override void Update(GameTime gameTime, Game1 game, Input input)
@@ -65,7 +67,11 @@ namespace WordMemori.GameFramework
             /// Game is over: Update _retryBtn & _exitBtn-----------------
             if (_gameOver)
             {
-              
+                _retryBtn.Update(gameTime, input);
+                _exitBtn.Update(gameTime, input);
+
+                if (_retryBtn.IsPressed) { game.SwitchToScene(Scene.MANU); }
+                if (_exitBtn.IsPressed) { game.Exit(); }
 
                 return;
             }
@@ -76,23 +82,39 @@ namespace WordMemori.GameFramework
             // Generate word
             if (_wordPool.Count == 0){
                 GameOver();
-                return;
             }
             else if (_wordPool.Count > 0)
             {
                 _word = _wordPool[0];
+
+                // Generate items
+                _timer += gameTime.ElapsedGameTime.Milliseconds;
+                if (_timer >= Setting.ItemGenerationInterval)
+                {
+                    _timer = 0;
+                    // Random item
+                    int index = _random.Next(0, _itemPool.Length);
+                    string fileName = _itemPool[index];
+                    if(_items.Count > 0 && fileName == _items[_items.Count - 1].Word)
+                    {
+                        fileName = _itemPool[index < (_itemPool.Length - 1) ? index + 1 : 0];
+                    }
+                    Item newItem = new Item($"{fileName}", Setting.ScreenWidth, 50);
+
+                    _items.Add(newItem);
+                }
             }
 
             // Update items
             foreach (Item item in new List<Item>(_items))
             {
-                item.Update(gameTime, input);
                 if (item.IsRemoved)
                 {
                     _items.Remove(item);
                     continue;
                 }
-                
+                item.Update(gameTime, input);
+
                 if (_player.CollideWith(item))
                 {
                     item.IsRemoved = true;
@@ -105,39 +127,28 @@ namespace WordMemori.GameFramework
                     else
                     {
                         _score--;
-                        //GameOver();
+                        GameOver();
                         // ...play fail soundeffect...
                     }
                 }
             }
-
-            // Generate items
-            _timer += gameTime.ElapsedGameTime.Milliseconds;
-            if(_timer >= Setting.ItemGenerationInterval)
-            {
-                _timer = 0;
-                // random item
-                string fileName = _itemPool[_random.Next(0, _itemPool.Length)];
-                Item newItem = new Item($"{fileName}", Setting.ScreenWidth, 50);
-                _items.Add(newItem);
-            }
-            
         }
 
         public override void Draw(SpriteBatch spriteBatch)
         {
             base.Draw(spriteBatch);
 
-            // Draw items, player, word
+            // Draw items, player
             _player.Draw(spriteBatch);
-            Text.DrawWord(spriteBatch, _word);
+            
             foreach(Item item in _items)
                 { item.Draw(spriteBatch); }
 
 
-            // Game on drawing: ...score...
+            // Game on drawing: ...word, score...
             if (!_gameOver)
             {
+                Text.DrawWord(spriteBatch, _word);
                 Text.DrawScoreCurrent(spriteBatch, _score);
             }
 
@@ -145,7 +156,9 @@ namespace WordMemori.GameFramework
             if( _gameOver)
             {
                 _gameOverText.Draw(spriteBatch);
-                
+                Text.DrawScoreResult(spriteBatch, _score);
+                _retryBtn.Draw(spriteBatch);
+                _exitBtn.Draw(spriteBatch);
             }
             
         }

@@ -35,7 +35,7 @@ namespace WordMemori.GameObject
 
             if(_timer >= Setting.ItemScrollSpeed)
             {
-                _timer -= Setting.ItemScrollSpeed;
+                _timer = 0;
 
                 // scrolling
                 _destinationRec.X -= Setting.SCALE_RATIO;
