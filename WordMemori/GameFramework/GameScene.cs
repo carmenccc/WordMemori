@@ -52,7 +52,7 @@ namespace WordMemori.GameFramework
             _itemPool = new string[] { "word1", "word2", "word3" };
 
             // Initialize all objects ("file_name", x, y)
-            _player = new Player("shark", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
+            _player = new Player("logo1", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
             _items = new List<Item>();
             _gameOverText = new Sprite("gameover", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width / 2), 100);
 
