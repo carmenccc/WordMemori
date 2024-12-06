@@ -1,12 +1,22 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/cloud1.xnb","TextureProcessor","Texture2DContent",2330,746581,0.1488188
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/Font/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.103364
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/gameover.xnb","TextureProcessor","Texture2DContent",475,7229,0.0110777
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/getready.xnb","TextureProcessor","Texture2DContent",525,7741,0.0088174
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",326,34581,0.0092085
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/item_name.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/item_name.xnb","TextureProcessor","Texture2DContent",218,533,0.0084152
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/logo1.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/logo1.xnb","TextureProcessor","Texture2DContent",604,8533,0.008078
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/shark.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/shark.xnb","TextureProcessor","Texture2DContent",6914,57685,0.0127431
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/word1.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/word1.xnb","TextureProcessor","Texture2DContent",3222,6133,0.0104273
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/word2.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/word2.xnb","TextureProcessor","Texture2DContent",1309,18285,0.010648
-"C:/Workspace/CSharp/WordMemori/WordMemori/Content/word3.png","C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/word3.xnb","TextureProcessor","Texture2DContent",331,10085,0.0085457
+"C:/Users/chack/WordMemori2/WordMemori/Content/Bee Kite.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Bee Kite.xnb","TextureProcessor","Texture2DContent",4022,8485,0.2490215
+"C:/Users/chack/WordMemori2/WordMemori/Content/btnContactInfo.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnContactInfo.xnb","TextureProcessor","Texture2DContent",4843,51349,0.3657788
+"C:/Users/chack/WordMemori2/WordMemori/Content/btnInstructions.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnInstructions.xnb","TextureProcessor","Texture2DContent",8803,37525,0.0076736
+"C:/Users/chack/WordMemori2/WordMemori/Content/btnMenu.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnMenu.xnb","TextureProcessor","Texture2DContent",8132,36085,0.2372225
+"C:/Users/chack/WordMemori2/WordMemori/Content/btnQuit.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnQuit.xnb","TextureProcessor","Texture2DContent",3919,13205,0.0059258
+"C:/Users/chack/WordMemori2/WordMemori/Content/btnRetry.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnRetry.xnb","TextureProcessor","Texture2DContent",2300,17141,0.0057852
+"C:/Users/chack/WordMemori2/WordMemori/Content/btnStart.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnStart.xnb","TextureProcessor","Texture2DContent",2101,17633,0.0045755
+"C:/Users/chack/WordMemori2/WordMemori/Content/Dragonfly Kite.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Dragonfly Kite.xnb","TextureProcessor","Texture2DContent",2951,7485,0.0091838
+"C:/Users/chack/WordMemori2/WordMemori/Content/Fish Kite.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Fish Kite.xnb","TextureProcessor","Texture2DContent",4712,9085,0.0124354
+"C:/Users/chack/WordMemori2/WordMemori/Content/Font/Arial.spritefont","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Font/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.1904143
+"C:/Users/chack/WordMemori2/WordMemori/Content/gameLogo.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/gameLogo.xnb","TextureProcessor","Texture2DContent",10629,40245,0.0075289
+"C:/Users/chack/WordMemori2/WordMemori/Content/gameover.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/btnGameOver.xnb","TextureProcessor","Texture2DContent",475,7229,0.2301121
+"C:/Users/chack/WordMemori2/WordMemori/Content/getready.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/getready.xnb","TextureProcessor","Texture2DContent",525,7741,0.0033498
+"C:/Users/chack/WordMemori2/WordMemori/Content/ground.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",12363,2261209,0.1961344
+"C:/Users/chack/WordMemori2/WordMemori/Content/Instructions.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Instructions.xnb","TextureProcessor","Texture2DContent",11375,186585,0.2436722
+"C:/Users/chack/WordMemori2/WordMemori/Content/item_name.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/item_name.xnb","TextureProcessor","Texture2DContent",218,533,0.0045024
+"C:/Users/chack/WordMemori2/WordMemori/Content/Owl Kite.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Owl Kite.xnb","TextureProcessor","Texture2DContent",3252,6685,0.0061292
+"C:/Users/chack/WordMemori2/WordMemori/Content/Player Avatar.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Player Avatar.xnb","TextureProcessor","Texture2DContent",3013,7285,0.2361924
+"C:/Users/chack/WordMemori2/WordMemori/Content/Rainbow Kite.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Rainbow Kite.xnb","TextureProcessor","Texture2DContent",2505,10085,0.0054483
+"C:/Users/chack/WordMemori2/WordMemori/Content/StaticSky Background.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/StaticSky Background.xnb","TextureProcessor","Texture2DContent",228793,1615081,0.1806839
+"C:/Users/chack/WordMemori2/WordMemori/Content/Sun.png","C:/Users/chack/WordMemori2/WordMemori/Content/bin/DesktopGL/Sun.xnb","TextureProcessor","Texture2DContent",19297,579993,0.0219342

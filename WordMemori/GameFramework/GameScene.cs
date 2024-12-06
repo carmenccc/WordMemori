@@ -48,16 +48,16 @@ namespace WordMemori.GameFramework
             _score = 0;
 
             // Load word data
-            _wordPool = new List<string> { "word1", "word2", "word3" };
-            _itemPool = new string[] { "word1", "word2", "word3" };
+            _wordPool = new List<string> { "Bee Kite", "Dragonfly Kite", "Fish Kite", "Owl Kite", "Rainbow Kite" };
+            _itemPool = new string[] { "Bee Kite", "Dragonfly Kite", "Fish Kite", "Owl Kite", "Rainbow Kite" };
 
             // Initialize all objects ("file_name", x, y)
-            _player = new Player("logo1", (Setting.ScreenWidth / 2 - Game1.Textures["shark"].Width / 2), 300);
+            _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), 300);
             _items = new List<Item>();
-            _gameOverText = new Sprite("gameover", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width / 2), 100);
+            _gameOverText = new Sprite("btnGameOver", (Setting.ScreenWidth / 2 - Game1.Textures["btnGameOver"].Width / 2), Setting.ScreenHeight / 4);
 
-            _retryBtn = new Button("getready", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width - 5), Setting.GameOverBtnY);
-            _exitBtn = new Button("getready", (Setting.ScreenWidth / 2 + 5), Setting.GameOverBtnY);
+            _retryBtn = new Button("btnRetry", (Setting.ScreenWidth / 3 - Game1.Textures["btnRetry"].Width / 2), Setting.GameOverBtnY);
+            _exitBtn = new Button("btnQuit", (Setting.ScreenWidth * 2 / 3 - Game1.Textures["btnQuit"].Width / 2), Setting.GameOverBtnY);
         }
 
         public override void Update(GameTime gameTime, Game1 game, Input input)

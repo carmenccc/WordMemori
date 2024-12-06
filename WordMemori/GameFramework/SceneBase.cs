@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WordMemori.GameObject;
 using WordMemori.Component;
+using System.Net.Mime;
 
 namespace WordMemori.GameFramework
 {
@@ -15,9 +16,12 @@ namespace WordMemori.GameFramework
         protected Sprite _background;
         protected ParallaxBackground _parallaxBackground;
 
+        protected List<ParallaxBackground> _parallaxBackgroundsList;
+        private float cameraSpeed = 100f;
+
         public SceneBase()
         {
-            this._background = new Sprite("cloud1", 0, 0);
+            //this._background = new Sprite("cloud1", 0, 0);
             this._parallaxBackground = new ParallaxBackground();
         }
 
@@ -28,7 +32,7 @@ namespace WordMemori.GameFramework
 
         public virtual void Draw(SpriteBatch spriteBatch)
         {
-            this._background.Draw(spriteBatch);
+            //this._background.Draw(spriteBatch);
             this._parallaxBackground.Draw(spriteBatch);
         }
     }

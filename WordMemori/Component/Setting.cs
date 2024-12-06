@@ -15,9 +15,9 @@ namespace WordMemori.Component
         public static float MENU_FONT_SCALE = 1f;
 
         public static int ScreenWidth = 576;
-        public static int ScreenHeight = 324;
+        public static int ScreenHeight = 275;
         public static int GroundLevelY = 300;
-        public static int WordY = 30;
+        public static int WordY = 10;
         public static int ScoreCurrentX = 10;
         public static int ScoreCurrentY = 10;
         public static int ScoreResultY = 150;
@@ -31,6 +31,8 @@ namespace WordMemori.Component
         public static int ItemGenerationInterval = 3000;
 
         public static string Instruction;
-        public static string ContactInfo;
+        public static string ContactInfo = 
+            $"Cai, Huiwen: hcai2586@conestogac.on.ca \n" +
+            $"Xiong, Elowynne: exiong5293@conestogac.on.ca";
     }
 }

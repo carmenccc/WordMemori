@@ -41,5 +41,10 @@ namespace WordMemori.GameObject
         {
             spriteBatch.Draw(this._texture, this._destinationRec, null, this._color);
         }
+
+        //public Texture2D ReturnTexture (Sprite sprite)
+        //{
+        //    return this._texture;
+        //}
     }
 }

@@ -66,3 +66,99 @@ C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\word1.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\word2.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\word3.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Font\Arial.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Font\Arial.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\gameover.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\getready.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\ground.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\item_name.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.exe
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.deps.json
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.runtimeconfig.json
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.dll
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.pdb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.csproj.AssemblyReference.cache
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.AssemblyInfoInputs.cache
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.AssemblyInfo.cs
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.csproj.CoreCompileInputs.cache
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.sourcelink.json
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.csproj.Up2Date
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.dll
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\refint\WordMemori.dll
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.pdb
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.genruntimeconfig.cache
+C:\Users\chack\WordMemori2\WordMemori\obj\Debug\net6.0\ref\WordMemori.dll
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Player Avatar.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Sun.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\StaticSky Background.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Bee Kite.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Dragonfly Kite.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Fish Kite.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Owl Kite.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Rainbow Kite.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnContactInfo.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnGameOver.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnInstructions.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnQuit.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnRetry.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnStart.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnMenu.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\gameLogo.xnb
+C:\Users\chack\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Instructions.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\gameover.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Bee Kite.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnContactInfo.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnGameOver.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnInstructions.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnMenu.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnQuit.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnRetry.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\btnStart.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Dragonfly Kite.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Fish Kite.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Font\Arial.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\gameLogo.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\getready.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\ground.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Instructions.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\item_name.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Owl Kite.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Player Avatar.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Rainbow Kite.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\StaticSky Background.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\Content\Sun.xnb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.exe
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.deps.json
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.runtimeconfig.json
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\WordMemori.pdb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.csproj.AssemblyReference.cache
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.AssemblyInfoInputs.cache
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.AssemblyInfo.cs
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.csproj.CoreCompileInputs.cache
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.sourcelink.json
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.csproj.Up2Date
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\refint\WordMemori.dll
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.pdb
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\WordMemori.genruntimeconfig.cache
+C:\Users\chack\OneDrive\Documents\School Work\F24 Conestoga Classes\PROG2370\WordMemori2\WordMemori\obj\Debug\net6.0\ref\WordMemori.dll

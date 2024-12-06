@@ -1,46 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\CSharp\\WordMemori\\",
+  "WorkspaceRootPath": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameframework\\contactinfoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\contactinfoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameframework\\scenebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\scenebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\component\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameframework\\instructionscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\instructionscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameframework\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameobject\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameobject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameobject\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameobject\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\gameobject\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\users\\chack\\onedrive\\documents\\school work\\f24 conestoga classes\\prog2370\\wordmemori2\\wordmemori\\component\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,132 +66,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuScene.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\MenuScene.cs",
-              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\MenuScene.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\MenuScene.cs",
-              "RelativeToolTip": "WordMemori\\GameFramework\\MenuScene.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:37:05.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Text.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Text.cs",
-              "RelativeDocumentMoniker": "WordMemori\\Component\\Text.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Text.cs",
-              "RelativeToolTip": "WordMemori\\Component\\Text.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAWwCgAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T21:36:51.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Setting.cs",
-              "RelativeDocumentMoniker": "WordMemori\\Component\\Setting.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Setting.cs",
-              "RelativeToolTip": "WordMemori\\Component\\Setting.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:26:19.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Game1.cs",
-              "RelativeDocumentMoniker": "WordMemori\\Game1.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Game1.cs",
-              "RelativeToolTip": "WordMemori\\Game1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T16:40:03.826Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Item.cs",
-              "RelativeDocumentMoniker": "WordMemori\\GameObject\\Item.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Item.cs",
-              "RelativeToolTip": "WordMemori\\GameObject\\Item.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCgAAAA4AAAAAAAAAA==",
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Game1.cs",
+              "RelativeDocumentMoniker": "WordMemori\\Game1.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Game1.cs",
+              "RelativeToolTip": "WordMemori\\Game1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwFQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T08:33:58.11Z"
+              "WhenOpened": "2024-12-03T16:40:03.826Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameScene.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\GameScene.cs",
-              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\GameScene.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\GameScene.cs",
-              "RelativeToolTip": "WordMemori\\GameFramework\\GameScene.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABHAAAAAAAAAA==",
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\Setting.cs",
+              "RelativeDocumentMoniker": "WordMemori\\Component\\Setting.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\Setting.cs",
+              "RelativeToolTip": "WordMemori\\Component\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T02:31:29.036Z",
+              "WhenOpened": "2024-12-03T17:26:19.41Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "ParallaxBackground.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\ParallaxBackground.cs",
+              "RelativeDocumentMoniker": "WordMemori\\Component\\ParallaxBackground.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\ParallaxBackground.cs",
+              "RelativeToolTip": "WordMemori\\Component\\ParallaxBackground.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:36:31.356Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactInfoScene.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxUAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:37:07.993Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructionScene.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\InstructionScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\InstructionScene.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\InstructionScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\InstructionScene.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:08:45.648Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Sprite.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Sprite.cs",
               "RelativeDocumentMoniker": "WordMemori\\GameObject\\Sprite.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Sprite.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Sprite.cs",
               "RelativeToolTip": "WordMemori\\GameObject\\Sprite.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T01:48:03.864Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneBase.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\SceneBase.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\SceneBase.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\SceneBase.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\SceneBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:40:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuScene.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\MenuScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\MenuScene.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\MenuScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\MenuScene.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:37:05.159Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\GameScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\GameScene.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameFramework\\GameScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\GameScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:31:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Player.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameObject\\Player.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Player.cs",
+              "RelativeToolTip": "WordMemori\\GameObject\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:30:33.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\Text.cs",
+              "RelativeDocumentMoniker": "WordMemori\\Component\\Text.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\Text.cs",
+              "RelativeToolTip": "WordMemori\\Component\\Text.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:36:51.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Item.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameObject\\Item.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Item.cs",
+              "RelativeToolTip": "WordMemori\\GameObject\\Item.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:33:58.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Button.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Button.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Button.cs",
               "RelativeDocumentMoniker": "WordMemori\\GameObject\\Button.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Button.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\GameObject\\Button.cs",
               "RelativeToolTip": "WordMemori\\GameObject\\Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:32:35.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Input.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Input.cs",
+              "DocumentMoniker": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\Input.cs",
               "RelativeDocumentMoniker": "WordMemori\\Component\\Input.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Input.cs",
+              "ToolTip": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\Component\\Input.cs",
               "RelativeToolTip": "WordMemori\\Component\\Input.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T04:33:51.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Program.cs",
-              "RelativeDocumentMoniker": "WordMemori\\Program.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Program.cs",
-              "RelativeToolTip": "WordMemori\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:47:41.786Z"
             }
           ]
         }

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj": {}
+    "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\WordMemori.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj": {
+    "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\WordMemori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj",
+        "projectUniqueName": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\WordMemori.csproj",
         "projectName": "WordMemori",
-        "projectPath": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\WordMemori.csproj",
-        "packagesPath": "C:\\Users\\carme\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\obj\\",
+        "projectPath": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\WordMemori.csproj",
+        "packagesPath": "C:\\Users\\chack\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chack\\OneDrive\\Documents\\School Work\\F24 Conestoga Classes\\PROG2370\\WordMemori2\\WordMemori\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\carme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -71,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
