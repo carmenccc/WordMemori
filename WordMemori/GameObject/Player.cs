@@ -21,7 +21,7 @@ namespace WordMemori.GameObject
 
         public Player(string imgName, int x, int y) : base(imgName, x, y)
         {
-            _originY = y;
+            _originY = _destinationRec.Y;
         }
 
         public override void Update(GameTime gameTime, Input input)
@@ -29,7 +29,7 @@ namespace WordMemori.GameObject
             base.Update(gameTime, input);
 
             // Stop dropping & reset if player touches the ground
-            if(_destinationRec.Y > Setting.GroundLevelY)
+            if(_destinationRec.Y > _originY)
             {
                 _jumping = false;
                 _speedY = 0;

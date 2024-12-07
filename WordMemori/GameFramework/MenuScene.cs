@@ -19,18 +19,23 @@ namespace WordMemori.GameFramework
         private Button _instructionsBtn;
         private Button _contactInfoBtn;
         private Button _exitBtn;
+        private Sprite _instructions;
+
 
         public MenuScene()
             : base()
         {
             // Initialize logo, menuBoard, instructions & contactInfo, button
-            this._logo = new Sprite("gameLogo", (Setting.ScreenWidth / 2 - Game1.Textures["gameLogo"].Width / 2), Setting.ScreenHeight / 5); //Top
-            this._startBtn = new Button("btnStart", (Setting.ScreenWidth / 3 - Game1.Textures["btnStart"].Width / 2), Setting.ScreenHeight * 4 / 5); //Bottom-left
-            this._exitBtn = new Button("btnQuit", (Setting.ScreenWidth / 2 + Game1.Textures["btnQuit"].Width / 2), Setting.ScreenHeight * 4 / 5); // Bottom-right
+            this._menuBoard = new Sprite("menu-board", (Setting.ScreenWidth / 2 - Game1.Textures["menu-board"].Width / 2), Setting.ScreenHeight / 4);
+            this._logo = new Sprite("gameLogo", (Setting.ScreenWidth / 2 - Game1.Textures["gameLogo"].Width / 2), Setting.ScreenHeight / 6); //Top
+            this._startBtn = new Button("btnStart", (Setting.ScreenWidth / 3 - Game1.Textures["btnStart"].Width / 2), Setting.ScreenHeight * 4 / 5 -10); //Bottom-left
+            this._exitBtn = new Button("btnQuit", (Setting.ScreenWidth / 2 + Game1.Textures["btnQuit"].Width / 2), Setting.ScreenHeight * 4 / 5 -10); // Bottom-right
 
             //Adding the instructions and contact info buttons
-            this._instructionsBtn = new Button("btnContactInfo", (Setting.ScreenWidth / 2 - Game1.Textures["btnInstructions"].Width / 2), Setting.ScreenHeight * 3 / 5); //Middle-top
-            this._contactInfoBtn = new Button("btnInstructions", (Setting.ScreenWidth / 2 - Game1.Textures["btnContactInfo"].Width / 2), Setting.ScreenHeight * 2 / 5); //Middle-bottom
+            this._instructionsBtn = new Button("btnInstructions", (Setting.ScreenWidth / 2 - Game1.Textures["btnInstructions"].Width / 2), Setting.ScreenHeight / 4 + 12); //Middle-bottom
+            this._contactInfoBtn = new Button("btnContactInfo", (Setting.ScreenWidth / 2 - Game1.Textures["btnContactInfo"].Width / 2), Setting.ScreenHeight * 9 / 10 + 2); //Middle-top
+            this._instructions = new Sprite("Instructions", Setting.ScreenWidth / 2 - Game1.Textures["Instructions"].Width / 2, Setting.ScreenHeight / 3 + 15);
+
         }
 
         public override void Update(GameTime gameTime, Game1 game, Input input)
@@ -70,9 +75,11 @@ namespace WordMemori.GameFramework
             base.Draw(spriteBatch);
 
             // Draw logo, menuBoard, instructions & contactInfo, button
+            _menuBoard.Draw(spriteBatch);
             _logo.Draw(spriteBatch);
             _startBtn.Draw(spriteBatch);
             _instructionsBtn.Draw(spriteBatch);
+            _instructions.Draw(spriteBatch);
             _contactInfoBtn.Draw(spriteBatch);
             _exitBtn.Draw(spriteBatch);
         }

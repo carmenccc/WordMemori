@@ -13,17 +13,17 @@ namespace WordMemori.GameFramework
 {
     public class SceneBase
     {
-        private float cameraSpeed = 100f;
+        private float cameraSpeed = 200f;
         public static List<ParallaxLayer> parallaxLayers;
 
         public SceneBase()
         {
             parallaxLayers = new List<ParallaxLayer>
             {
-                new ParallaxLayer(Game1.Textures["bluesky"], 0.2f, new Vector2(0, 0)),
-                new ParallaxLayer(Game1.Textures["cloudblue1"], 0.2f, new Vector2(0, 0)),
-                new ParallaxLayer(Game1.Textures["cloudblue2"], 0.2f, new Vector2(0, 0)),
-                new ParallaxLayer(Game1.Textures["cloudblue3"], 0.2f, new Vector2(0, 0))
+                new ParallaxLayer(Game1.Textures["bg-purple"], 0f, new Vector2(0, 0)),
+                new ParallaxLayer(Game1.Textures["cloud-1"], 0.2f, new Vector2(0, 0)),
+                new ParallaxLayer(Game1.Textures["cloud-2"], 0.3f, new Vector2(0, 0)),
+                new ParallaxLayer(Game1.Textures["cloud-3"], 0.5f, new Vector2(0, 0))
             };
         }
 

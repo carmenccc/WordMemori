@@ -82,10 +82,12 @@ namespace WordMemori
                 "btnMenu",
                 "gameLogo",
                 "Instructions",
-                "bluesky",
-                "cloudblue1",
-                "cloudblue2",
-                "cloudblue3",
+                "bg-purple",
+                "cloud-1",
+                "cloud-2",
+                "cloud-3",
+                "menu-board",
+                "score-board"
             };
             foreach (var i in images)
             {

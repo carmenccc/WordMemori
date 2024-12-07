@@ -8,6 +8,7 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/3.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/4.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Bee Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bg-purple.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bluesky.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnContactInfo.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnInstructions.png</File>
@@ -15,6 +16,9 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnQuit.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnRetry.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnStart.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud-1.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud-2.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud-3.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue1.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue2.png</File>
@@ -28,9 +32,11 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Instructions.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/item_name.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/menu-board.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Owl Kite.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Player Avatar.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Rainbow Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/score-board.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/StaticSky Background.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sun.png</File>
   </SourceFiles>
@@ -54,7 +60,13 @@
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File>btnGameOver.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

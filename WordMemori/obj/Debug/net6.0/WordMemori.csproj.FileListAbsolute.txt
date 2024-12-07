@@ -181,3 +181,9 @@ C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\bluesky.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloudblue1.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloudblue2.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloudblue3.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\bg-purple.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloud-1.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloud-2.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloud-3.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\menu-board.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\score-board.xnb

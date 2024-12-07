@@ -13,6 +13,7 @@ namespace WordMemori.GameFramework
     internal class InstructionScene : SceneBase
     {
         //Display Variables
+        private Sprite _menuBoard;
         private Button _menuButton;
         private Sprite _instructions;
 
@@ -20,7 +21,8 @@ namespace WordMemori.GameFramework
             : base()
         {
             // Initialize menu button
-            this._menuButton = new Button("btnMenu", (Setting.ScreenWidth / 2 - Game1.Textures["btnMenu"].Width / 2), Setting.ScreenHeight / 8);
+            this._menuBoard = new Sprite("menu-board", (Setting.ScreenWidth / 2 - Game1.Textures["menu-board"].Width / 2), Setting.ScreenHeight / 4);
+            this._menuButton = new Button("btnMenu", (Setting.ScreenWidth / 2 - Game1.Textures["btnMenu"].Width / 2), Setting.ScreenHeight * 4 / 5);
             this._instructions = new Sprite("Instructions", Setting.ScreenWidth / 2 - Game1.Textures["Instructions"].Width / 2, Setting.ScreenHeight / 3);
         }
 
@@ -43,6 +45,7 @@ namespace WordMemori.GameFramework
             base.Draw(spriteBatch);
 
             // Draw menu button & instructions
+            _menuBoard.Draw(spriteBatch);
             _instructions.Draw(spriteBatch);
             _menuButton.Draw(spriteBatch);
         }

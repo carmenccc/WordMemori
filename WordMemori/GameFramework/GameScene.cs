@@ -43,7 +43,7 @@ namespace WordMemori.GameFramework
         public GameScene() : base()
         {
             _random = new Random();
-            _timer = 0;
+            _timer = Setting.ItemGenerationInterval;
             _gameOver = false;
             _score = 0;
 
@@ -52,10 +52,10 @@ namespace WordMemori.GameFramework
             _itemPool = new string[] { "Bee Kite", "Dragonfly Kite", "Fish Kite", "Owl Kite", "Rainbow Kite" };
 
             // Initialize all objects ("file_name", x, y)
-            _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), Setting.GroundLevelY);
+            _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), Setting.PlayerOriginY);
             _items = new List<Item>();
             _gameOverText = new Sprite("btnGameOver", (Setting.ScreenWidth / 2 - Game1.Textures["btnGameOver"].Width / 2), Setting.ScreenHeight / 4);
-
+            _scoreBoard = new Sprite("score-board", (Setting.ScreenWidth / 2 - Game1.Textures["score-board"].Width / 2), Setting.ScreenHeight / 3);
             _retryBtn = new Button("btnRetry", (Setting.ScreenWidth / 3 - Game1.Textures["btnRetry"].Width / 2), Setting.GameOverBtnY);
             _exitBtn = new Button("btnQuit", (Setting.ScreenWidth * 2 / 3 - Game1.Textures["btnQuit"].Width / 2), Setting.GameOverBtnY);
         }
@@ -99,7 +99,7 @@ namespace WordMemori.GameFramework
                     {
                         fileName = _itemPool[index < (_itemPool.Length - 1) ? index + 1 : 0];
                     }
-                    Item newItem = new Item($"{fileName}", Setting.ScreenWidth, 50);
+                    Item newItem = new Item($"{fileName}", Setting.ScreenWidth, Setting.ItemGenerationY);
 
                     _items.Add(newItem);
                 }
@@ -155,6 +155,7 @@ namespace WordMemori.GameFramework
             // Game over drawing: ...scoreBoard, retryBtn, exiBtn, finalScore...
             if( _gameOver)
             {
+                //_scoreBoard.Draw(spriteBatch);
                 _gameOverText.Draw(spriteBatch);
                 Text.DrawScoreResult(spriteBatch, _score);
                 _retryBtn.Draw(spriteBatch);
