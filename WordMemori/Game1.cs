@@ -29,8 +29,7 @@ namespace WordMemori
         public static Dictionary<string, Texture2D> Textures;
         public static Dictionary<string, SoundEffect> Sounds;
         public static SpriteFont Font;
-        public static List<ParallaxBackground> parallaxLayers;
-        private float cameraSpeed = 100f;
+        
 
         public Game1()
         {
@@ -82,21 +81,18 @@ namespace WordMemori
                 "btnGameOver",
                 "btnMenu",
                 "gameLogo",
-                "Instructions"
+                "Instructions",
+                "bluesky",
+                "cloudblue1",
+                "cloudblue2",
+                "cloudblue3",
             };
             foreach (var i in images)
             {
                 Textures.Add(i, Content.Load<Texture2D>(i));
             }
 
-            //Put the background images into a separate list (for easier scrolling)
-            //_graphics.PreferredBackBufferWidth / 2
-            parallaxLayers = new List<ParallaxBackground> 
-            {
-                new ParallaxBackground(Textures["StaticSky Background"], 0.2f, new Vector2(0, 150)),
-                new ParallaxBackground(Textures["StaticSky Background"], 0.2f, new Vector2(0, 0)),
-                new ParallaxBackground(Textures["ground"], 0.2f, new Vector2(0, _graphics.PreferredBackBufferHeight - 75))
-            };
+            
 
             // Load Font
             Font = Content.Load<SpriteFont>("Font/Arial");
@@ -114,13 +110,7 @@ namespace WordMemori
             _oldMouseState = Mouse.GetState();
             _oldKeyboardState = Keyboard.GetState();
 
-            //Constantly have the background scrolling
-            float deltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
-
-            foreach (var layer in parallaxLayers)
-            {
-                layer.Update(deltaTime, cameraSpeed);
-            }
+            
 
             base.Update(gameTime);
         }
@@ -132,11 +122,7 @@ namespace WordMemori
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
 
-            //Continue to load scrolling background
-            foreach (var item in parallaxLayers)
-            {
-                item.Draw(_spriteBatch, 0);
-            }
+            
 
             this._scene.Draw(this._spriteBatch);
 

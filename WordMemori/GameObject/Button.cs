@@ -23,7 +23,7 @@ namespace WordMemori.GameObject
             }
              }
 
-        // Consructoer
+        // Consructor
         public Button(string imgName, int x, int y) : base(imgName, x, y)
         {
         }

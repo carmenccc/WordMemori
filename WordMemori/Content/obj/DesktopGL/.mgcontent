@@ -4,29 +4,45 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Bee Kite.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/btnContactInfo.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/btnInstructions.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/btnMenu.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/btnQuit.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/btnRetry.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/btnStart.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Dragonfly Kite.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Fish Kite.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Font/Arial.spritefont</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/gameLogo.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/gameover.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/getready.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/ground.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Instructions.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/item_name.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Owl Kite.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Player Avatar.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Rainbow Kite.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/StaticSky Background.png</File>
-    <File>C:/Users/chack/WordMemori2/WordMemori/Content/Sun.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/2.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/3.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/4.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Bee Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bluesky.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnContactInfo.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnInstructions.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnMenu.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnQuit.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnRetry.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnStart.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue1.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue2.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue3.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Dragonfly Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Fish Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameLogo.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Instructions.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/item_name.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Owl Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Player Avatar.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Rainbow Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/StaticSky Background.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sun.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

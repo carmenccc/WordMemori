@@ -10,13 +10,13 @@ namespace WordMemori.Component
     {
         // Styling
         public static int SCALE_RATIO = 2;
-        public static float WORD_SCALE = 2f;
-        public static float SCORE_SCALE = 2f;
+        public static float WORD_SCALE = 1f;
+        public static float SCORE_SCALE = 0.5f;
         public static float MENU_FONT_SCALE = 1f;
 
-        public static int ScreenWidth = 576;
-        public static int ScreenHeight = 275;
-        public static int GroundLevelY = 300;
+        public static int ScreenWidth = 400;
+        public static int ScreenHeight = 324;
+        public static int GroundLevelY = 400;
         public static int WordY = 10;
         public static int ScoreCurrentX = 10;
         public static int ScoreCurrentY = 10;

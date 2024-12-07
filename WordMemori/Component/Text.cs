@@ -23,7 +23,7 @@ namespace WordMemori.Component
             int x = (Setting.ScreenWidth - (int)size.X) / 2;
             int y = Setting.WordY;
             Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
-            float scale = Setting.WORD_SCALE;
+            float scale = Setting.WORD_SCALE * Setting.SCALE_RATIO;
 
             spriteBatch.DrawString(Game1.Font, word, textPosition, Color.Black, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
         }
@@ -39,7 +39,7 @@ namespace WordMemori.Component
             int x = Setting.ScoreCurrentX;
             int y = Setting.ScoreCurrentY;
             Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
-            float scale = Setting.SCORE_SCALE;
+            float scale = Setting.SCORE_SCALE * Setting.SCALE_RATIO;
 
             spriteBatch.DrawString(Game1.Font, scoreStr, textPosition, Color.Black, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
         }
@@ -56,7 +56,7 @@ namespace WordMemori.Component
             int x = (Setting.ScreenWidth - (int)size.X) / 2;
             int y = Setting.ScoreResultY;
             Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
-            float scale = Setting.SCORE_SCALE;
+            float scale = Setting.SCORE_SCALE * Setting.SCALE_RATIO;
 
             spriteBatch.DrawString(Game1.Font, scoreStr, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
         }

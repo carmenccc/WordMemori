@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/chack/OneDrive/Documents/School Work/F24 Conestoga Classes/PROG2370/WordMemori2/WordMemori/Content/Rainbow Kite.png</SourceFile>
-  <SourceTime>2024-12-05T10:30:25.3699202-05:00</SourceTime>
-  <DestFile>C:/Users/chack/OneDrive/Documents/School Work/F24 Conestoga Classes/PROG2370/WordMemori2/WordMemori/Content/bin/DesktopGL/Content/Rainbow Kite.xnb</DestFile>
-  <DestTime>2024-12-06T09:34:26.5509753-05:00</DestTime>
+  <SourceFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Rainbow Kite.png</SourceFile>
+  <SourceTime>2024-12-06T13:57:03.1115335-05:00</SourceTime>
+  <DestFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/Content/Rainbow Kite.xnb</DestFile>
+  <DestTime>2024-12-06T23:42:15.9130541-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

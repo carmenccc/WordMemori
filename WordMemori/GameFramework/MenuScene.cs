@@ -29,8 +29,8 @@ namespace WordMemori.GameFramework
             this._exitBtn = new Button("btnQuit", (Setting.ScreenWidth / 2 + Game1.Textures["btnQuit"].Width / 2), Setting.ScreenHeight * 4 / 5); // Bottom-right
 
             //Adding the instructions and contact info buttons
-            this._instructionsBtn = new Button("btnInstructions", (Setting.ScreenWidth / 2 - Game1.Textures["btnInstructions"].Width / 2), Setting.ScreenHeight * 3 / 5); //Middle-top
-            this._contactInfoBtn = new Button("btnContactInfo", (Setting.ScreenWidth / 2 - Game1.Textures["btnContactInfo"].Width / 2), Setting.ScreenHeight * 2 / 5); //Middle-bottom
+            this._instructionsBtn = new Button("btnContactInfo", (Setting.ScreenWidth / 2 - Game1.Textures["btnInstructions"].Width / 2), Setting.ScreenHeight * 3 / 5); //Middle-top
+            this._contactInfoBtn = new Button("btnInstructions", (Setting.ScreenWidth / 2 - Game1.Textures["btnContactInfo"].Width / 2), Setting.ScreenHeight * 2 / 5); //Middle-bottom
         }
 
         public override void Update(GameTime gameTime, Game1 game, Input input)

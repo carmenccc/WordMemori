@@ -9,32 +9,23 @@ using WordMemori.GameObject;
 
 namespace WordMemori.Component
 {
-    public class ParallaxBackground
+    public class ParallaxLayer
     {
-        private int _timer;
-
-        public Sprite Ground;
         public Texture2D Texture { get; }
         public float ScrollSpeed { get; }
         public Vector2 Position { get; set; }
-
-        public ParallaxBackground()
+        
+        public Rectangle DestinationRec
         {
-            //Ground = new Sprite("ground", 0, 200);
-        }
-        public virtual void Update(GameTime gameTime, Game1 game)
-        {
-
-        }
-
-        public virtual void Draw(SpriteBatch spriteBatch)
-        {
-            //Ground.Draw(spriteBatch);
+            get
+            {
+                return new Rectangle((int)Position.X * Setting.SCALE_RATIO, (int)Position.Y * Setting.SCALE_RATIO, Texture.Width * Setting.SCALE_RATIO, Texture.Height * Setting.SCALE_RATIO);
+            }
         }
 
 
         //Used for the scrolling
-        public ParallaxBackground(Texture2D texture, float scrollSpeed, Vector2 initialPosition)
+        public ParallaxLayer(Texture2D texture, float scrollSpeed, Vector2 initialPosition)
         {
             Texture = texture;
             ScrollSpeed = scrollSpeed;
@@ -53,8 +44,11 @@ namespace WordMemori.Component
 
         public void Draw(SpriteBatch sb, int placeholder)
         {
-            sb.Draw(Texture, Position, Color.White);
-            sb.Draw(Texture, new Vector2(Position.X + Texture.Width, Position.Y), Color.White);
+            // Draw seamless texture for looping
+            sb.Draw(Texture, DestinationRec, Color.White);
+
+            Rectangle nextRec = new Rectangle((int)(Position.X + Texture.Width) * Setting.SCALE_RATIO, (int)Position.Y * Setting.SCALE_RATIO, Texture.Width * Setting.SCALE_RATIO, Texture.Height * Setting.SCALE_RATIO);
+            sb.Draw(Texture, nextRec, Color.White);
         }
     }
 }

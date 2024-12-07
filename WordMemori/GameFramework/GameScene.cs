@@ -52,7 +52,7 @@ namespace WordMemori.GameFramework
             _itemPool = new string[] { "Bee Kite", "Dragonfly Kite", "Fish Kite", "Owl Kite", "Rainbow Kite" };
 
             // Initialize all objects ("file_name", x, y)
-            _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), 300);
+            _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), Setting.GroundLevelY);
             _items = new List<Item>();
             _gameOverText = new Sprite("btnGameOver", (Setting.ScreenWidth / 2 - Game1.Textures["btnGameOver"].Width / 2), Setting.ScreenHeight / 4);
 
