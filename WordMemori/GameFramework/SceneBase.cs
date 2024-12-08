@@ -21,8 +21,8 @@ namespace WordMemori.GameFramework
             parallaxLayers = new List<ParallaxLayer>
             {
                 new ParallaxLayer(Game1.Textures["bg-purple"], 0f, new Vector2(0, 0)),
-                new ParallaxLayer(Game1.Textures["cloud-1"], 0.2f, new Vector2(0, 0)),
-                new ParallaxLayer(Game1.Textures["cloud-2"], 0.3f, new Vector2(0, 0)),
+                new ParallaxLayer(Game1.Textures["cloud-1"], 0.1f, new Vector2(0, 0)),
+                new ParallaxLayer(Game1.Textures["cloud-2"], 0.2f, new Vector2(0, 0)),
                 new ParallaxLayer(Game1.Textures["cloud-3"], 0.5f, new Vector2(0, 0))
             };
         }

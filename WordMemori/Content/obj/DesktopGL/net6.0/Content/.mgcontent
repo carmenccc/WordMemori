@@ -4,74 +4,48 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/2.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/3.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/4.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Bee Kite.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bg-purple.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bluesky.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnContactInfo.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnInstructions.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnMenu.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnQuit.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnRetry.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/btnStart.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud-1.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud-2.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud-3.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloud1.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue1.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue2.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/cloudblue3.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Dragonfly Kite.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Fish Kite.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/File.spritefont</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameLogo.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/ground.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Instructions.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/item_name.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/menu-board.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Owl Kite.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Player Avatar.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Rainbow Kite.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/score-board.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Bee Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/bg-purple.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/btnContactInfo.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/btnInstructions.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/btnMenu.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/btnQuit.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/btnRetry.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/btnStart.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/cloud-1.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/cloud-2.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/cloud-3.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Dragonfly Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Fish Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/gameLogo.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/gameover.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/getready.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Instructions.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/menu-board.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Owl Kite.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Player Avatar.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Images/Rainbow Kite.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/applause1.wav</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/button_clic.wav</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/button_hover.wav</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/hit.wav</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/pass.wav</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/StaticSky Background.png</File>
-    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sun.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
     <File>Font/ScoreFont.spritefont</File>
     <File xsi:nil="true" />
-    <File>btnGameOver.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

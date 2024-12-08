@@ -63,12 +63,8 @@ namespace WordMemori
             Textures = new Dictionary<string, Texture2D>();
             List<string> images = new List<string>()
             {
-                "getready",
-                "item_name",
-                "ground",
+                
                 "Player Avatar",
-                "Sun",
-                "StaticSky Background",
                 "Bee Kite",
                 "Dragonfly Kite",
                 "Fish Kite",
@@ -79,7 +75,7 @@ namespace WordMemori
                 "btnQuit",
                 "btnRetry",
                 "btnStart",
-                "btnGameOver",
+                "gameover",
                 "btnMenu",
                 "gameLogo",
                 "Instructions",
@@ -87,12 +83,11 @@ namespace WordMemori
                 "cloud-1",
                 "cloud-2",
                 "cloud-3",
-                "menu-board",
-                "score-board"
+                "menu-board"
             };
             foreach (var i in images)
             {
-                Textures.Add(i, Content.Load<Texture2D>(i));
+                Textures.Add(i, Content.Load<Texture2D>("images/" + i));
             }
 
             // Load sound effects

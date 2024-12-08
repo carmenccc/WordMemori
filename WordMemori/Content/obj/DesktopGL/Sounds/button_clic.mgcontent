@@ -3,7 +3,7 @@
   <SourceFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/button_clic.wav</SourceFile>
   <SourceTime>2024-12-01T12:06:21.5376549-05:00</SourceTime>
   <DestFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/Sounds/button_clic.xnb</DestFile>
-  <DestTime>2024-12-07T18:40:31.3925335-05:00</DestTime>
+  <DestTime>2024-12-07T20:50:22.1569849-05:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

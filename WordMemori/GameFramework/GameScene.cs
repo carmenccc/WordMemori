@@ -26,7 +26,6 @@ namespace WordMemori.GameFramework
 
         // GameOver Objects
         Sprite _gameOverText;
-        Sprite _scoreBoard;
         Button _retryBtn;
         Button _exitBtn;
 
@@ -54,8 +53,7 @@ namespace WordMemori.GameFramework
             // Initialize all objects ("file_name", x, y)
             _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), Setting.PlayerOriginY);
             _items = new List<Item>();
-            _gameOverText = new Sprite("btnGameOver", (Setting.ScreenWidth / 2 - Game1.Textures["btnGameOver"].Width / 2), Setting.ScreenHeight / 4);
-            _scoreBoard = new Sprite("score-board", (Setting.ScreenWidth / 2 - Game1.Textures["score-board"].Width / 2), Setting.ScreenHeight / 3);
+            _gameOverText = new Sprite("gameover", (Setting.ScreenWidth / 2 - Game1.Textures["gameover"].Width / 2), Setting.ScreenHeight / 4);
             _retryBtn = new Button("btnRetry", (Setting.ScreenWidth / 3 - Game1.Textures["btnRetry"].Width / 2), Setting.GameOverBtnY);
             _exitBtn = new Button("btnQuit", (Setting.ScreenWidth * 2 / 3 - Game1.Textures["btnQuit"].Width / 2), Setting.GameOverBtnY);
         }
