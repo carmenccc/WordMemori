@@ -48,8 +48,8 @@ namespace WordMemori.GameFramework
             _score = 0;
 
             // Load word data
-            _wordPool = new List<string> { "Bee Kite", "Dragonfly Kite", "Fish Kite", "Owl Kite", "Rainbow Kite" };
-            _itemPool = new string[] { "Bee Kite", "Dragonfly Kite", "Fish Kite", "Owl Kite", "Rainbow Kite" };
+            _wordPool = new List<string> { "Bee Kite", "Dragonfly Kite", "Fish Kite"};
+            _itemPool = new string[] { "Bee Kite", "Dragonfly Kite", "Fish Kite"};
 
             // Initialize all objects ("file_name", x, y)
             _player = new Player("Player Avatar", (Setting.ScreenWidth / 2 - Game1.Textures["Player Avatar"].Width / 2), Setting.PlayerOriginY);
@@ -79,10 +79,12 @@ namespace WordMemori.GameFramework
             /// Game is on going: Update moving game objects------------------
             _player.Update(gameTime, input);
 
-            // Generate word
+            // Game passed
             if (_wordPool.Count == 0){
+                Game1.Sounds["applause1"].Play();
                 GameOver();
             }
+            // Generate word
             else if (_wordPool.Count > 0)
             {
                 _word = _wordPool[0];
@@ -120,15 +122,18 @@ namespace WordMemori.GameFramework
                     item.IsRemoved = true;
                     // Process matching result
                     if (item.Word == _word)
-                    {
+                    {   
+                        // Correct
                         _score++;
+                        Game1.Sounds["pass"].Play();
                         _wordPool.RemoveAt(0);
                     }
                     else
                     {
+                        // Incorrect
                         _score--;
+                        Game1.Sounds["hit"].Play();
                         GameOver();
-                        // ...play fail soundeffect...
                     }
                 }
             }

@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WordMemori.Component;
 using WordMemori.GameObject;
+using static System.Formats.Asn1.AsnWriter;
 
 namespace WordMemori.GameFramework
 {
@@ -42,6 +43,8 @@ namespace WordMemori.GameFramework
 
             // Draw logo, menuBoard, instructions & contactInfo, button
             _menuButton.Draw(spriteBatch);
+            Text.DrawContactInformation(spriteBatch, Setting.ContactInfo1, 1);
+            Text.DrawContactInformation(spriteBatch, Setting.ContactInfo2, 2);
         }
     }
 }

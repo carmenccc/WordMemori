@@ -26,6 +26,7 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Dragonfly Kite.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Fish Kite.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/File.spritefont</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameLogo.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/gameover.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/getready.png</File>
@@ -37,6 +38,11 @@
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Player Avatar.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Rainbow Kite.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/score-board.png</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/applause1.wav</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/button_clic.wav</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/button_hover.wav</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/hit.wav</File>
+    <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sounds/pass.wav</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/StaticSky Background.png</File>
     <File>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Sun.png</File>
   </SourceFiles>
@@ -63,8 +69,14 @@
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
+    <File>Font/ScoreFont.spritefont</File>
     <File xsi:nil="true" />
     <File>btnGameOver.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

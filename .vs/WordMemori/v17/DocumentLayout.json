@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Workspace\\CSharp\\WordMemori\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\contactinfoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\contactinfoscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameframework\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameframework\\instructionscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,27 +47,11 @@
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\parallaxlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameobject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\component\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carme\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|solutionrelative:wordmemori\\gameobject\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C2440F-94E2-45A7-B90D-35060A003178}|WordMemori\\WordMemori.csproj|c:\\workspace\\csharp\\wordmemori\\wordmemori\\component\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,17 +65,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Game1.cs",
               "RelativeDocumentMoniker": "WordMemori\\Game1.cs",
               "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Game1.cs",
               "RelativeToolTip": "WordMemori\\Game1.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAIAwwFkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAYwB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T16:40:03.826Z",
               "IsPinned": true,
@@ -79,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "SceneBase.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\SceneBase.cs",
               "RelativeDocumentMoniker": "WordMemori\\GameFramework\\SceneBase.cs",
@@ -88,12 +92,11 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T15:40:53.575Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ParallaxLayer.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\ParallaxLayer.cs",
               "RelativeDocumentMoniker": "WordMemori\\Component\\ParallaxLayer.cs",
@@ -102,8 +105,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T15:36:31.356Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -111,90 +113,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "ContactInfoScene.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\ContactInfoScene.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T23:59:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Button.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Button.cs",
               "RelativeDocumentMoniker": "WordMemori\\GameObject\\Button.cs",
               "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Button.cs",
               "RelativeToolTip": "WordMemori\\GameObject\\Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T05:17:28.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Setting.cs",
-              "RelativeDocumentMoniker": "WordMemori\\Component\\Setting.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Setting.cs",
-              "RelativeToolTip": "WordMemori\\Component\\Setting.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T05:01:27.867Z",
+              "WhenOpened": "2024-12-07T05:17:28.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Text.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Text.cs",
-              "RelativeDocumentMoniker": "WordMemori\\Component\\Text.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Text.cs",
-              "RelativeToolTip": "WordMemori\\Component\\Text.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwDoAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T21:36:51.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InstructionScene.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\InstructionScene.cs",
-              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\InstructionScene.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\InstructionScene.cs",
-              "RelativeToolTip": "WordMemori\\GameFramework\\InstructionScene.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:11:39.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sprite.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Sprite.cs",
-              "RelativeDocumentMoniker": "WordMemori\\GameObject\\Sprite.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Sprite.cs",
-              "RelativeToolTip": "WordMemori\\GameObject\\Sprite.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:48:03.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuScene.cs",
-              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\MenuScene.cs",
-              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\MenuScene.cs",
-              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\MenuScene.cs",
-              "RelativeToolTip": "WordMemori\\GameFramework\\MenuScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAACTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:37:05.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameScene.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\GameScene.cs",
               "RelativeDocumentMoniker": "WordMemori\\GameFramework\\GameScene.cs",
               "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\GameScene.cs",
               "RelativeToolTip": "WordMemori\\GameFramework\\GameScene.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwDYAAACDAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwKQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:31:29.036Z",
               "EditorCaption": ""
@@ -202,6 +153,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "InstructionScene.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\InstructionScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\InstructionScene.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\InstructionScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\InstructionScene.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:11:39.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Text.cs",
+              "RelativeDocumentMoniker": "WordMemori\\Component\\Text.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Text.cs",
+              "RelativeToolTip": "WordMemori\\Component\\Text.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:36:51.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Setting.cs",
+              "RelativeDocumentMoniker": "WordMemori\\Component\\Setting.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Setting.cs",
+              "RelativeToolTip": "WordMemori\\Component\\Setting.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA2wBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:01:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuScene.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\MenuScene.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameFramework\\MenuScene.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameFramework\\MenuScene.cs",
+              "RelativeToolTip": "WordMemori\\GameFramework\\MenuScene.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwB8AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:37:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Sprite.cs",
+              "RelativeDocumentMoniker": "WordMemori\\GameObject\\Sprite.cs",
+              "ToolTip": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Sprite.cs",
+              "RelativeToolTip": "WordMemori\\GameObject\\Sprite.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:48:03.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\GameObject\\Player.cs",
               "RelativeDocumentMoniker": "WordMemori\\GameObject\\Player.cs",
@@ -209,12 +223,11 @@
               "RelativeToolTip": "WordMemori\\GameObject\\Player.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAcwB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T05:21:16.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T05:21:16.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MonoGame.Content.Builder.Task.targets",
               "DocumentMoniker": "C:\\Users\\carme\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\carme\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
@@ -222,12 +235,11 @@
               "RelativeToolTip": "..\\..\\..\\Users\\carme\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\build\\MonoGame.Content.Builder.Task.targets",
               "ViewState": "AgIAAHwAAAAAAAAAAAASwI0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-07T21:36:44.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T21:36:44.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Input.cs",
               "DocumentMoniker": "C:\\Workspace\\CSharp\\WordMemori\\WordMemori\\Component\\Input.cs",
               "RelativeDocumentMoniker": "WordMemori\\Component\\Input.cs",

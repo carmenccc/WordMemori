@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/Font/Arial.spritefont</SourceFile>
-  <SourceTime>2024-12-07T16:36:25.4469233-05:00</SourceTime>
+  <SourceTime>2024-12-07T19:19:43.5700223-05:00</SourceTime>
   <DestFile>C:/Workspace/CSharp/WordMemori/WordMemori/Content/bin/DesktopGL/Content/Font/Arial.xnb</DestFile>
-  <DestTime>2024-12-07T16:36:32.6420409-05:00</DestTime>
+  <DestTime>2024-12-07T19:19:50.0200095-05:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

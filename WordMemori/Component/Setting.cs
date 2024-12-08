@@ -32,8 +32,9 @@ namespace WordMemori.Component
         public static int ItemGenerationY = 70;
 
         public static string Instruction;
-        public static string ContactInfo = 
-            $"Cai, Huiwen: hcai2586@conestogac.on.ca \n" +
+        public static string ContactInfo1 = 
+            $"Cai, Huiwen: hcai2586@conestogac.on.ca";
+        public static string ContactInfo2 =
             $"Xiong, Elowynne: exiong5293@conestogac.on.ca";
     }
 }

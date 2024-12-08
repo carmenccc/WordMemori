@@ -11,6 +11,7 @@ namespace WordMemori.Component
     public class Text
     {
         public static SpriteFont Font = Game1.Font;
+        public static SpriteFont ScoreFont = Game1.ScoreFont;
 
         /// <summary>
         /// Draw word on center of screen horizontally with scale of Setting.WORD_SCALE
@@ -19,13 +20,13 @@ namespace WordMemori.Component
         /// <param name="word">A string of the current word</param>
         public static void DrawWord(SpriteBatch spriteBatch, string word)
         {
-            Vector2 size = Font.MeasureString(word);
+            Vector2 size = ScoreFont.MeasureString(word);
             int x = (Setting.ScreenWidth - (int)size.X) / 2;
             int y = Setting.WordY;
             Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
             float scale = Setting.WORD_SCALE * Setting.SCALE_RATIO;
 
-            spriteBatch.DrawString(Game1.Font, word, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
+            spriteBatch.DrawString(ScoreFont, word, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
         }
 
         /// <summary>
@@ -41,7 +42,7 @@ namespace WordMemori.Component
             Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
             float scale = Setting.SCORE_SCALE * Setting.SCALE_RATIO;
 
-            spriteBatch.DrawString(Game1.Font, scoreStr, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
+            spriteBatch.DrawString(ScoreFont, scoreStr, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
         }
 
         /// <summary>
@@ -52,13 +53,26 @@ namespace WordMemori.Component
         public static void DrawScoreResult(SpriteBatch spriteBatch, int score)
         {
             string scoreStr = "Your Score: " + score;
-            Vector2 size = Font.MeasureString(scoreStr);
+            Vector2 size = ScoreFont.MeasureString(scoreStr);
             int x = (Setting.ScreenWidth - (int)size.X) / 2;
             int y = Setting.ScoreResultY;
             Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
             float scale = Setting.SCORE_SCALE * Setting.SCALE_RATIO * 2;
 
-            spriteBatch.DrawString(Game1.Font, scoreStr, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
+            spriteBatch.DrawString(ScoreFont, scoreStr, textPosition, Color.White, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
+        }
+
+        public static void DrawContactInformation(SpriteBatch spriteBatch, string contactInfo, int index)
+        {
+           
+            Vector2 size = Font.MeasureString(contactInfo);
+            int x = (Setting.ScreenWidth) / 5;
+            int y = Setting.ScreenHeight / 3;
+            if (index == 2) y += (int)(size.Y + 1);
+            Vector2 textPosition = new Vector2(x * Setting.SCALE_RATIO, y * Setting.SCALE_RATIO);
+            float scale = Setting.SCORE_SCALE * Setting.SCALE_RATIO;
+
+            spriteBatch.DrawString(Game1.Font, contactInfo, textPosition, Color.Black, 0f, Vector2.Zero, scale, SpriteEffects.None, 0f);
         }
     }
 }

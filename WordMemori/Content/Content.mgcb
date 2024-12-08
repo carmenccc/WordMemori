@@ -272,6 +272,13 @@
 /processorParam:TextureFormat=Compressed
 /build:Font/Arial.spritefont
 
+#begin Font/File.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Font/File.spritefont;Font/ScoreFont.spritefont
+
 #begin gameLogo.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -403,6 +410,36 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:score-board.png
+
+#begin Sounds/applause1.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/applause1.wav
+
+#begin Sounds/button_clic.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/button_clic.wav
+
+#begin Sounds/button_hover.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/button_hover.wav
+
+#begin Sounds/hit.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/hit.wav
+
+#begin Sounds/pass.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/pass.wav
 
 #begin StaticSky Background.png
 /importer:TextureImporter

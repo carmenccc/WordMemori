@@ -35,9 +35,12 @@ namespace WordMemori.GameObject
             if(_destinationRec.Contains(input.GetMousePosition()))
             {
                 // Hover
+                if (_isHover == false)
+                    // Play sound effect before hover set to true, or else it will keep playing
+                    Game1.Sounds["button_hover"].Play(); 
                 _isHover = true;
                 _color = Color.LightGray;
-                
+
                 // Mousedown
                 if (input.IsLeftMouseDown())
                     _color = Color.Gray;
@@ -45,6 +48,7 @@ namespace WordMemori.GameObject
                 // Pressed
                 if (input.IsLeftMousePressed()){
                     _isPressed = true;
+                    Game1.Sounds["button_clic"].Play();
                 }
             }
             else

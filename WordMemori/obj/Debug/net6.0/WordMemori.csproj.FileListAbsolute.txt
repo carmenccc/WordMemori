@@ -187,3 +187,9 @@ C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloud-2.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\cloud-3.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\menu-board.xnb
 C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\score-board.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Sounds\button_clic.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Sounds\button_hover.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Sounds\hit.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Sounds\pass.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Sounds\applause1.xnb
+C:\Workspace\CSharp\WordMemori\WordMemori\bin\Debug\net6.0\Content\Font\ScoreFont.xnb

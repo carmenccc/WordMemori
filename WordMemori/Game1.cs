@@ -29,6 +29,7 @@ namespace WordMemori
         public static Dictionary<string, Texture2D> Textures;
         public static Dictionary<string, SoundEffect> Sounds;
         public static SpriteFont Font;
+        public static SpriteFont ScoreFont;
         
 
         public Game1()
@@ -58,7 +59,7 @@ namespace WordMemori
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+            // Load textures
             Textures = new Dictionary<string, Texture2D>();
             List<string> images = new List<string>()
             {
@@ -94,10 +95,24 @@ namespace WordMemori
                 Textures.Add(i, Content.Load<Texture2D>(i));
             }
 
-            
+            // Load sound effects
+            Sounds = new Dictionary<string, SoundEffect>();
+
+            List<string> sounds = new List<string>()
+            {
+                "button_clic",
+                "button_hover",
+                "hit",
+                "pass",
+                "applause1"
+            };
+
+            foreach (string s in sounds)
+                Sounds.Add(s, Content.Load<SoundEffect>("sounds/" + s));
 
             // Load Font
             Font = Content.Load<SpriteFont>("Font/Arial");
+            ScoreFont = Content.Load<SpriteFont>("Font/ScoreFont");
         }
 
         protected override void Update(GameTime gameTime)
